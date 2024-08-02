@@ -2,7 +2,7 @@
 
 @font-face {
 font-family: "Peace";
-src: url("/assets/font/Peace Sans.otf") format("opentype");
+src: url("/ShowcaseGraphicsWebsite/assets/font/Peace Sans.otf") format("opentype");
 }
 
 html, body{
@@ -524,7 +524,7 @@ body{
 }
 
 #waves{
-	background-image: url('/assets/images/waves1.svg');
+	background-image: url('/ShowcaseGraphicsWebsite/assets/images/waves1.svg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -536,7 +536,7 @@ body{
 }
 
 #wavesabout{
-background-image: url('/assets/images/wavesabout.svg');
+background-image: url('/ShowcaseGraphicsWebsite/assets/images/wavesabout.svg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -1048,7 +1048,7 @@ filter: drop-shadow(65px 90px 30px black);
 }
 
 #waves3{
-	background: url('/assets/images/waves3.svg');
+	background: url('/ShowcaseGraphicsWebsite/assets/images/waves3.svg');
 	background-size: cover;
 	width: 100vw;
 	aspect-ratio: 900/250;
@@ -1129,7 +1129,7 @@ filter: drop-shadow(65px 90px 30px black);
 	    width: 90%;
     aspect-ratio: 1;
     color: white;
-    background: url('/assets/images/harmonicosc.gif') no-repeat;
+    background: url('/ShowcaseGraphicsWebsite/assets/images/harmonicosc.gif') no-repeat;
     filter: opacity(1) contrast(2) saturate(200%);
     background-size: cover;
     user-select: none;
@@ -1212,7 +1212,7 @@ filter: drop-shadow(65px 90px 30px black);
 
 
 #wavesfinal{
-	background-image: url('/assets/images/stacked-steps-haikei.svg');
+	background-image: url('/ShowcaseGraphicsWebsite/assets/images/stacked-steps-haikei.svg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -1322,7 +1322,7 @@ filter: drop-shadow(65px 90px 30px black);
 }
 
 #peeps{
-	background: url('/assets/images/peeps2.png');
+	background: url('/ShowcaseGraphicsWebsite/assets/images/peeps2.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 }
