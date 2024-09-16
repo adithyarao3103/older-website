@@ -30,7 +30,7 @@
 }
 
 .sun{
-	background-image: url('/ShowcaseGraphicsWebsite/assets/images/sun.png');
+	background-image: url('/older-website/assets/images/sun.png');
 	background-position:center ;
 	background-size: 105%;
 	background-repeat: no-repeat;
@@ -80,7 +80,7 @@
 }
 
 .ear{
-	background-image: url('/ShowcaseGraphicsWebsite/assets/images/earth.jpg') ;
+	background-image: url('/older-website/assets/images/earth.jpg') ;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -115,7 +115,7 @@
 }
 
 .mars{	
-	background-image: url('/ShowcaseGraphicsWebsite/assets/images/mars.png') ;
+	background-image: url('/older-website/assets/images/mars.png') ;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -154,7 +154,7 @@
 }
 
 .jup{
-	background-image: url('/ShowcaseGraphicsWebsite/assets/images/jupiter.png') ;
+	background-image: url('/older-website/assets/images/jupiter.png') ;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
